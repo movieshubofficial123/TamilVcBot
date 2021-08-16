@@ -40,12 +40,12 @@ __starts with ! (exclamation mark)__
 ✯ `!resume` resume playing,
 ✯ `!mute`  mute the VC userbot,
 ✯ `!unmute`  unmute the VC userbot.
-✯ provided by 🤖 **[TamilBots](https://t.me/TamilBots)**
-✯ For Support 🆘 **[TamilSupport](https://t.me/TamilSupport)**"""
+✯ provided by 🤖 **[MOVIES HUB](https://t.me/AbinCr)**
+✯ For Support 🆘 **[MOVIES HUB](https://t.me/AbinCr)**"""
 
 USERBOT_REPO = f"""{emoji.ROBOT} Tamil Voice Chat UserBot
 » Repository: **[GitHub](https://github.com/tamilbots/tamilvcbot)**
-» Provided by **[TamilBots](https://t.me/TamilBots)**
+» Provided by **[OWNER](https://t.me/AbinCr)**
 » License: AGPL-3.0-or-later"""
 
 
